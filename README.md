@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 I'm a passionate **Software Engineer** focused on **cloud-native systems**, **performance optimization**, and **infrastructure automation**.  
-I thrive on solving large-scale system challenges — from building resilient database clusters to automating complex deployments.
+I thrive on solving large-scale system challenges from building resilient database clusters to automating complex deployments.
 
 ---
 
