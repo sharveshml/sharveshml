@@ -6,13 +6,6 @@
 
 ---
 
-## About Me
-
-I'm a passionate **Software Engineer** focused on **cloud-native systems**, **performance optimization**, and **infrastructure automation**.  
-I thrive on solving large-scale system challenges from building resilient database clusters to automating complex deployments.
-
----
-
 ## Technical Highlights
 
 - **☸️ Kubernetes (CKA Certified)** — Skilled in cluster administration, Helm, ArgoCD, and container orchestration for production-grade deployments.  
