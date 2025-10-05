@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sharvesh ML
+# Hi there, I'm Sharvesh ML
 
 🚀 **Software Engineer – Performance & Infrastructure**   
 📧 [sharvesh1601@gmail.com](mailto:sharvesh1601@gmail.com)  
@@ -6,14 +6,14 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a passionate **Software Engineer** focused on **cloud-native systems**, **performance optimization**, and **infrastructure automation**.  
 I thrive on solving large-scale system challenges from building resilient database clusters to automating complex deployments.
 
 ---
 
-## ⚙️ Technical Highlights
+## Technical Highlights
 
 - **☸️ Kubernetes (CKA Certified)** — Skilled in cluster administration, Helm, ArgoCD, and container orchestration for production-grade deployments.  
 - **🐘 PostgreSQL Expert** — Deep experience in performance tuning, partitioning automation, and HA failover design for large data workloads.  
