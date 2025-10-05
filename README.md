@@ -23,6 +23,6 @@ I thrive on solving large-scale system challenges from building resilient databa
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages:** Go, Python, Java, Bash
