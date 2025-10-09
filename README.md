@@ -1,4 +1,4 @@
-# Hi there, I'm Sharvesh ML
+# Hi there, I'm Sharvesh
 
 🚀 **Software Engineer – Performance & Infrastructure**   
 📧 [sharvesh1601@gmail.com](mailto:sharvesh1601@gmail.com)  
