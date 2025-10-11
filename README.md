@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer – Performance & Infrastructure**   
 📧 [sharvesh1601@gmail.com](mailto:sharvesh1601@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sharveshml) | [GitHub](https://github.com/sharveshml) | [CKA Certification](https://www.credly.com/badges/cd2b4dc1-cd91-4b0e-aeb8-7ceec4958ec7)
+🔗 [LinkedIn](https://www.linkedin.com/in/sharveshml) | [GitHub](https://github.com/sharveshml) | [CKA](https://www.credly.com/badges/cd2b4dc1-cd91-4b0e-aeb8-7ceec4958ec7)
 
 ---
 
