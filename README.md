@@ -9,7 +9,7 @@
 ## Technical Highlights
 
 - **☸️ Kubernetes (CKA Certified)** — Skilled in cluster administration, Helm, ArgoCD, and container orchestration for production-grade deployments.  
-- **🐘 PostgreSQL Expert** — Deep experience in performance tuning, partitioning automation, and HA failover design for large data workloads.  
+- **🐘 PostgreSQL** — Deep experience in performance tuning, partitioning automation, and HA failover design for large data workloads.  
 - **🧩 Infrastructure as Code** — Automated infrastructure setup using **Ansible**, **Terraform**, and **Jenkins** CI/CD.  
 - **📦 Docker & CI/CD Pipelines** — Built optimized multi-stage images and automated nightly build pipelines to improve scalability and reduce deployment time.  
 - **📈 Monitoring & Performance** — Experienced with **Prometheus**, **Grafana**, and **k6** for performance benchmarking and observability.
